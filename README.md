@@ -1,4 +1,4 @@
-Assessment 2
+Who-s-Who-Music-Guessing-Game
 ===============================
 ## Overview
 
